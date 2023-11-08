@@ -1,11 +1,11 @@
-# Quiz-Application-With-Timer
+# Quiz-Application-With-Timer 
 It is a mini-project in the Java programming language.
 **1. Quiz Questions and Options**: Stores quiz questions along with multiple-choice options and correct answers.
 **2. Timer:** Implements a 59sec timer for each question to limit the time to answer.
 **3. Question Display:** Presents one question at a time with multiple-choice options.
 **4. Answer Submission:** Alows user to select ap option and submit their answer within the given time.
 **5. Score Calculation:** Displays the final score with 10 marks for each question.
-#Java #Java AWT #Java Swing
+
 Below are some snapshots of the project:
 ![q1](https://github.com/sjm03github/Quiz-Application-With-Timer/assets/149459866/c9d51580-d4d9-466c-be85-075d385abc18)
 
